@@ -1,0 +1,41 @@
+/***** BASE STYLES *****/
+
+body {
+    font-family: 'Sriracha', cursive;
+    font-size: 16px;
+    padding: 1em;
+    margin: 0 auto;
+    background: #67e4aa;
+}
+
+h1 {
+    font-size: 2.25em;
+    color: #ffffff;
+    margin-top: 1em;
+}
+
+h4 {
+    font-family: 'Sriracha', cursive;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #f4727d;
+}
+
+a {
+    text-decoration: none;
+    color: #f4727d;
+}
+
+footer {
+    text-align: center;
+    padding-top: 1em;
+}
+
+
+.advice {
+    font-family: sans-serif;
+}
+
+p {
+    line-height: 25px;
+}
